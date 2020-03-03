@@ -1,0 +1,13 @@
+/Users/chaseflorell/Projects/RefreshTest/RefreshTest/bin/Debug/netstandard2.0/RefreshTest.deps.json
+/Users/chaseflorell/Projects/RefreshTest/RefreshTest/bin/Debug/netstandard2.0/RefreshTest.dll
+/Users/chaseflorell/Projects/RefreshTest/RefreshTest/bin/Debug/netstandard2.0/ref/RefreshTest.dll
+/Users/chaseflorell/Projects/RefreshTest/RefreshTest/bin/Debug/netstandard2.0/RefreshTest.pdb
+/Users/chaseflorell/Projects/RefreshTest/RefreshTest/obj/Debug/netstandard2.0/RefreshTest.csprojAssemblyReference.cache
+/Users/chaseflorell/Projects/RefreshTest/RefreshTest/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/chaseflorell/Projects/RefreshTest/RefreshTest/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/chaseflorell/Projects/RefreshTest/RefreshTest/obj/Debug/netstandard2.0/RefreshTest.AssemblyInfoInputs.cache
+/Users/chaseflorell/Projects/RefreshTest/RefreshTest/obj/Debug/netstandard2.0/RefreshTest.AssemblyInfo.cs
+/Users/chaseflorell/Projects/RefreshTest/RefreshTest/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/chaseflorell/Projects/RefreshTest/RefreshTest/obj/Debug/netstandard2.0/RefreshTest.dll
+/Users/chaseflorell/Projects/RefreshTest/RefreshTest/obj/Debug/netstandard2.0/ref/RefreshTest.dll
+/Users/chaseflorell/Projects/RefreshTest/RefreshTest/obj/Debug/netstandard2.0/RefreshTest.pdb
